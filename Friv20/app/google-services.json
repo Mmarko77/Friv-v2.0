@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663128816404",
+    "firebase_url": "https://friv20-6bbea.firebaseio.com",
+    "project_id": "friv20-6bbea",
+    "storage_bucket": "friv20-6bbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663128816404:android:1092d7e52f4fc1b36b2001",
+        "android_client_info": {
+          "package_name": "sk.upjs.ics.android.friv20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663128816404-k0us352m0mkadjku1nuatffm3p1egsd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sk.upjs.ics.android.friv20",
+            "certificate_hash": "3d6a598bf898b881a52aad48d69d114976741f63"
+          }
+        },
+        {
+          "client_id": "663128816404-26803c39ikgqg16dkjoh5p80ujqc3h3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_m0Lb4GDvRVbM7kaLqPHetx9-1GM_a18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663128816404-26803c39ikgqg16dkjoh5p80ujqc3h3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
